@@ -1,1 +1,4 @@
-# DataStructure
+# DataStructures
+
+## Stack
+### LIFO
