@@ -1,3 +1,3 @@
 # DataStructures
 
-## Stack (LIFO) Queue (FIFO)
+## Stack (LIFO) Queue (FIFO) Dequeue
